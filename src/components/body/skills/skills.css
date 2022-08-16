@@ -9,9 +9,14 @@
   justify-content: space-between;
   margin: 12px 0px;
 }
+.section-title{
+  color: #26363e;
+  text-shadow: 3px 3px 0px #92e3a9;
+}
 .skills-section-title {
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 600; 
+
 }
 .skills-list {
   display: flex;

@@ -12,7 +12,7 @@ function Contact() {
           <p>Want to get in touch? Contact me here</p>
           <p>📞 9522216823</p>
           <p>📧 hjain012003@gmail.com </p>
-          <p> or reach out on any of the platforms</p>
+          <p> or reach out on any of these platforms</p>
           <SocialContact />
         </div>
         <div className = "center">
