@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/harshfolio.github.io/static/css/main.729a15ae.chunk.css",
+    "main.js": "/harshfolio.github.io/static/js/main.6c3156f1.chunk.js",
+    "main.js.map": "/harshfolio.github.io/static/js/main.6c3156f1.chunk.js.map",
+    "runtime-main.js": "/harshfolio.github.io/static/js/runtime-main.7c2eca5d.js",
+    "runtime-main.js.map": "/harshfolio.github.io/static/js/runtime-main.7c2eca5d.js.map",
+    "static/js/2.06eb6dfa.chunk.js": "/harshfolio.github.io/static/js/2.06eb6dfa.chunk.js",
+    "static/js/2.06eb6dfa.chunk.js.map": "/harshfolio.github.io/static/js/2.06eb6dfa.chunk.js.map",
+    "static/js/3.eb51eccc.chunk.js": "/harshfolio.github.io/static/js/3.eb51eccc.chunk.js",
+    "static/js/3.eb51eccc.chunk.js.map": "/harshfolio.github.io/static/js/3.eb51eccc.chunk.js.map",
+    "index.html": "/harshfolio.github.io/index.html",
+    "static/css/main.729a15ae.chunk.css.map": "/harshfolio.github.io/static/css/main.729a15ae.chunk.css.map",
+    "static/js/2.06eb6dfa.chunk.js.LICENSE.txt": "/harshfolio.github.io/static/js/2.06eb6dfa.chunk.js.LICENSE.txt",
+    "static/media/coding.png": "/harshfolio.github.io/static/media/coding.acd987a9.png",
+    "static/media/myresume.pdf": "/harshfolio.github.io/static/media/myresume.89994c7e.pdf",
+    "static/media/portfolio.jpg": "/harshfolio.github.io/static/media/portfolio.e874bf62.jpg",
+    "static/media/project1.jpg": "/harshfolio.github.io/static/media/project1.737af6f5.jpg",
+    "static/media/about.css": "/harshfolio.github.io/static/media/try.0e307822.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c2eca5d.js",
+    "static/js/2.06eb6dfa.chunk.js",
+    "static/css/main.729a15ae.chunk.css",
+    "static/js/main.6c3156f1.chunk.js"
+  ]
+}
