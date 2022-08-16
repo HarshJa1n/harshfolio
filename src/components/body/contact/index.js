@@ -19,9 +19,9 @@ function Contact() {
           OR
         </div>
         <div className="download">
-          <a download href={require("../../../assets/resume.pdf").default}>
-            <i class="fi-rr-cloud-download download-icon" />
-            Download Resume
+          <a href={require("../../../assets/myresume.pdf").default}>
+          <i class="fi fi-rr-document-signed"></i>
+            View Resume
           </a>
         </div>
       </div>
