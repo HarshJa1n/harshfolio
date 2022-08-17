@@ -5,8 +5,8 @@ export const ProjectData = [
     about:
       "This is my personal portfolio that needs a bit fixes here and there but its alright for now :)",
     tags: ["ReactJs", "NodeJs", "JavaScript", "Personal"],
-    demo: "www.example.com",
-    github: "www.example.com",
+    demo: "https://harshja1n.github.io/harshfolio.github.io/",
+    github: "https://github.com/HarshJa1n/harshfolio.github.io",
     image: require("../assets/image/portfolio.jpg").default,
   },
 
