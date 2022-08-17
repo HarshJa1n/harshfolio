@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/harshfolio.github.io/static/css/main.729a15ae.chunk.css",
-    "main.js": "/harshfolio.github.io/static/js/main.6c3156f1.chunk.js",
-    "main.js.map": "/harshfolio.github.io/static/js/main.6c3156f1.chunk.js.map",
+    "main.js": "/harshfolio.github.io/static/js/main.5b91ff24.chunk.js",
+    "main.js.map": "/harshfolio.github.io/static/js/main.5b91ff24.chunk.js.map",
     "runtime-main.js": "/harshfolio.github.io/static/js/runtime-main.7c2eca5d.js",
     "runtime-main.js.map": "/harshfolio.github.io/static/js/runtime-main.7c2eca5d.js.map",
     "static/js/2.06eb6dfa.chunk.js": "/harshfolio.github.io/static/js/2.06eb6dfa.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.7c2eca5d.js",
     "static/js/2.06eb6dfa.chunk.js",
     "static/css/main.729a15ae.chunk.css",
-    "static/js/main.6c3156f1.chunk.js"
+    "static/js/main.5b91ff24.chunk.js"
   ]
 }
