@@ -21,6 +21,6 @@ export const ProjectData = [
       "JavaScript",
       "Tool",
     ],
-    github: "www.example.com",
+    github: "https://github.com/HarshJa1n/calulator",
     image: require("../assets/image/project1.jpg").default,  },
 ];
