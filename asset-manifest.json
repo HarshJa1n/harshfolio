@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/harshfolio.github.io/static/css/main.729a15ae.chunk.css",
-    "main.js": "/harshfolio.github.io/static/js/main.5b91ff24.chunk.js",
-    "main.js.map": "/harshfolio.github.io/static/js/main.5b91ff24.chunk.js.map",
-    "runtime-main.js": "/harshfolio.github.io/static/js/runtime-main.7c2eca5d.js",
-    "runtime-main.js.map": "/harshfolio.github.io/static/js/runtime-main.7c2eca5d.js.map",
-    "static/js/2.06eb6dfa.chunk.js": "/harshfolio.github.io/static/js/2.06eb6dfa.chunk.js",
-    "static/js/2.06eb6dfa.chunk.js.map": "/harshfolio.github.io/static/js/2.06eb6dfa.chunk.js.map",
-    "static/js/3.eb51eccc.chunk.js": "/harshfolio.github.io/static/js/3.eb51eccc.chunk.js",
-    "static/js/3.eb51eccc.chunk.js.map": "/harshfolio.github.io/static/js/3.eb51eccc.chunk.js.map",
-    "index.html": "/harshfolio.github.io/index.html",
-    "static/css/main.729a15ae.chunk.css.map": "/harshfolio.github.io/static/css/main.729a15ae.chunk.css.map",
-    "static/js/2.06eb6dfa.chunk.js.LICENSE.txt": "/harshfolio.github.io/static/js/2.06eb6dfa.chunk.js.LICENSE.txt",
-    "static/media/coding.png": "/harshfolio.github.io/static/media/coding.acd987a9.png",
-    "static/media/myresume.pdf": "/harshfolio.github.io/static/media/myresume.89994c7e.pdf",
-    "static/media/portfolio.jpg": "/harshfolio.github.io/static/media/portfolio.e874bf62.jpg",
-    "static/media/project1.jpg": "/harshfolio.github.io/static/media/project1.737af6f5.jpg",
-    "static/media/about.css": "/harshfolio.github.io/static/media/try.0e307822.gif"
+    "main.css": "/harshfolio/static/css/main.19844f1a.chunk.css",
+    "main.js": "/harshfolio/static/js/main.27234da3.chunk.js",
+    "main.js.map": "/harshfolio/static/js/main.27234da3.chunk.js.map",
+    "runtime-main.js": "/harshfolio/static/js/runtime-main.4aeeb6e5.js",
+    "runtime-main.js.map": "/harshfolio/static/js/runtime-main.4aeeb6e5.js.map",
+    "static/js/2.06eb6dfa.chunk.js": "/harshfolio/static/js/2.06eb6dfa.chunk.js",
+    "static/js/2.06eb6dfa.chunk.js.map": "/harshfolio/static/js/2.06eb6dfa.chunk.js.map",
+    "static/js/3.eb51eccc.chunk.js": "/harshfolio/static/js/3.eb51eccc.chunk.js",
+    "static/js/3.eb51eccc.chunk.js.map": "/harshfolio/static/js/3.eb51eccc.chunk.js.map",
+    "index.html": "/harshfolio/index.html",
+    "static/css/main.19844f1a.chunk.css.map": "/harshfolio/static/css/main.19844f1a.chunk.css.map",
+    "static/js/2.06eb6dfa.chunk.js.LICENSE.txt": "/harshfolio/static/js/2.06eb6dfa.chunk.js.LICENSE.txt",
+    "static/media/coding.png": "/harshfolio/static/media/coding.acd987a9.png",
+    "static/media/myResume.pdf": "/harshfolio/static/media/myResume.f360c5ad.pdf",
+    "static/media/portfolio.jpg": "/harshfolio/static/media/portfolio.e874bf62.jpg",
+    "static/media/project1.jpg": "/harshfolio/static/media/project1.737af6f5.jpg",
+    "static/media/about.css": "/harshfolio/static/media/try.0e307822.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c2eca5d.js",
+    "static/js/runtime-main.4aeeb6e5.js",
     "static/js/2.06eb6dfa.chunk.js",
-    "static/css/main.729a15ae.chunk.css",
-    "static/js/main.5b91ff24.chunk.js"
+    "static/css/main.19844f1a.chunk.css",
+    "static/js/main.27234da3.chunk.js"
   ]
 }
