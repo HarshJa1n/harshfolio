@@ -1,26 +1,26 @@
 .about {
-  /* height: 75vh; */
-  padding-bottom: 26px;
-  background-image: url('../../../assets/try.gif');
-  background-size: contain;
-
-
- 
+/*  height: 75vh;*/
+  padding-bottom: 48px;
+  background: radial-gradient(#151515, #000000);
+  color: white;
+  overflow-y: hidden;
+  animation: fadeIn 1 1s ease-out;
 }
 .about-top {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  padding-top: 50px;
   align-items: center;
   color: #def6e4;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 .picture {
-  height: 420px;
+  height: 280px;
+
 }
 .about-info {
   font-size: 24px;
-  padding-left: 60px;
 }
 .info-name {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,6 +35,71 @@
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
 }
+.light {
+  position: absolute;
+  width: 0px;
+  opacity: 0.75;
+  background-color: black;
+  top: 75vh;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+.x1 {
+  animation: floatUp 4s infinite linear;
+  transform: scale(1);
+  box-shadow: #b558ad 0px 0px 20px 2px;
+}
+.x2 {
+  animation: floatUp 7s infinite linear;
+  transform: scale(1.6);
+  left: 15%;
+  box-shadow: #f35044 0px 0px 20px 2px;
+}
+.x3 {
+  animation: floatUp 2.5s infinite linear;
+  transform: scale(0.5);
+  left: -15%;
+  box-shadow: #ffee01 0px 0px 20px 2px;
+}
+.x4 {
+  animation: floatUp 4.5s infinite linear;
+  transform: scale(1.2);
+  left: -34%;
+  box-shadow: #f67844 0px 0px 20px 2px;
+}
+.x5 {
+  animation: floatUp 8s infinite linear;
+  transform: scale(2.2);
+  left: -57%;
+  box-shadow: #c0a0d1 0px 0px 20px 2px;
+}
+.x6 {
+  animation: floatUp 3s infinite linear;
+  transform: scale(0.8);
+  left: -81%;
+  box-shadow: #01b59c 0px 0px 20px 2px;
+}
+.x7 {
+  animation: floatUp 7s infinite linear;
+  transform: scale(1.6);
+  left: 15%;
+  box-shadow: #019cd7 0px 0px 20px 2px;
+}
+.x8 {
+  animation: floatUp 4.7s infinite linear;
+  transform: scale(1.7);
+  left: 62%;
+  box-shadow: #f35044 0px 0px 20px 2px;
+}
+.x9 {
+  animation: floatUp 4.1s infinite linear;
+  transform: scale(0.9);
+  left: 85%;
+  box-shadow: #01b59c 0px 0px 20px 2px;
+}
+
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
@@ -53,12 +118,76 @@
     align-items: center;
   }
   .picture {
-    height: 280px;
+    height: 200px;
   }
   .about-info {
-    font-size: 20px;
+    font-size: 18px;
+    padding: 30px;
+
+    
   }
   .info-name {
-    font-size: 26px;
+    font-size: 20px;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+@keyframes floatUp {
+  0% {
+    top: 100vh;
+    opacity: 0;
+  }
+  25% {
+    opacity: 1;
+  }
+  50% {
+    top: 0vh;
+    opacity: 0.8;
+  }
+  75% {
+    opacity: 1;
+  }
+  100% {
+    top: -100vh;
+    opacity: 0;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 0.9;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes finalFade {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 0.9;
+  }
+  100% {
+    opacity: 1;
   }
 }

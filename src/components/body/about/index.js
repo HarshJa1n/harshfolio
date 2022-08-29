@@ -4,6 +4,15 @@ import "./about.css";
 function About() {
   return (
     <div className="about ">
+      <div className="light x2"></div>
+      <div className="light x1"></div>
+      <div className="light x3"></div>
+      <div className="light x4"></div>
+      <div className="light x5"></div>
+      <div className="light x6"></div>
+      <div className="light x7"></div>
+      <div className="light x8"></div>
+      <div className="light x9"></div>
       <div className="about-top">
         <div className="about-info">
           Hello👋, I am Harsh Jain<br /><br />
@@ -13,9 +22,9 @@ function About() {
         </div>
         <div className="about-photo">
           <img
-            src={require("../../../assets/image/coding.png").default}
+            src={require("../../../assets/my.jpg").default}
             className="picture"
-            alt="coding guy"
+            alt="my pic"
           />
         </div>
       </div>
