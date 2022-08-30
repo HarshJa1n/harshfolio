@@ -7,7 +7,17 @@ export const ProjectData = [
     tags: ["ReactJs", "NodeJs", "JavaScript", "Personal"],
     demo: "https://harshja1n.github.io/harshfolio.github.io/",
     github: "https://github.com/HarshJa1n/harshfolio.github.io",
-    image: require("../assets/image/portfolio.jpg").default,
+    image: require("../assets/image/portfolio1.jpg").default,
+  },
+  {
+    id: 1,
+    title: "CRED UI-Clone",
+    about:
+      "Build the Clone of CRED's website to practise ReactJS, Intersection Observer API and CSS animations",
+    tags: ["ReactJs", "JavaScript", "CSS3"],
+    demo: "https://harshja1n.github.io/cred-clone/",
+    github: "https://github.com/HarshJa1n/cred-clone",
+    image: require("../assets/image/cred.jpg").default,
   },
 
   {

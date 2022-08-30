@@ -19,7 +19,7 @@ function Contact() {
           OR
         </div>
         <div className="download">
-          <a href={require("../../../assets/myResume.pdf").default}>
+          <a href={require("../../../assets/myRes.pdf").default}>
           <i class="fi fi-rr-document-signed"></i>
             View Resume
           </a>
