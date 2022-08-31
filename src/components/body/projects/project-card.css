@@ -39,20 +39,76 @@
   margin-top: 6px;
   display: flex;
 }
-.link-button {
-  display: flex;
+.button-75 {
+  /*display: flex;
   justify-content: center;
   align-items: center;
   width: max-content;
-  background-color: aquamarine;
+  background-color: #92e3a9;
   padding: 4px 8px;
   border-radius: 4px;
   font-size: 16px;
-  margin-right: 6px;
-}
-.link-button i {
-  display: flex;
+  margin-right: 6px;*/
   align-items: center;
+  background-image: linear-gradient(135deg,#01b59c, #92e3a9);
+  border: 0;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  font-weight: 700;
+  height: 44px;
+  justify-content: center;
+  letter-spacing: 0.4px;
+  line-height: 1;
+  max-width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: px;
+  text-decoration: none;
+  text-transform: uppercase;
+  user-select: none;
+  touch-action: manipulation;
+  margin-right: 5px;
+}
+.button-75:active {
+  outline: 0;
+}
+
+.button-75:hover {
+  outline: 0;
+}
+
+.button-75 span {
+  transition: all 200ms;
+}
+
+.button-75:hover span {
+  transform: scale(0.9);
+  opacity: 0.75;
+}
+
+@media screen and (max-width: 991px) {
+  .button-75 {
+    font-size: 12px;
+    height: 35px;
+  }
+  .button-75 i{
+    font-size: 4px;
+  }
+
+  .button-75 span {
+    line-height: 40px;
+  }
+  
+
+}
+
+.button-75 i {
+font-size: 18px;
   margin-right: 4px;
 }
 @media only screen and (max-width: 720px) {
