@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/harshfolio/static/css/main.f85885dd.chunk.css",
-    "main.js": "/harshfolio/static/js/main.ed2ad272.chunk.js",
-    "main.js.map": "/harshfolio/static/js/main.ed2ad272.chunk.js.map",
+    "main.css": "/harshfolio/static/css/main.8b72a7d0.chunk.css",
+    "main.js": "/harshfolio/static/js/main.973b32cf.chunk.js",
+    "main.js.map": "/harshfolio/static/js/main.973b32cf.chunk.js.map",
     "runtime-main.js": "/harshfolio/static/js/runtime-main.417fd4ed.js",
     "runtime-main.js.map": "/harshfolio/static/js/runtime-main.417fd4ed.js.map",
     "static/js/2.06eb6dfa.chunk.js": "/harshfolio/static/js/2.06eb6dfa.chunk.js",
@@ -10,18 +10,18 @@
     "static/js/3.c75fd35a.chunk.js": "/harshfolio/static/js/3.c75fd35a.chunk.js",
     "static/js/3.c75fd35a.chunk.js.map": "/harshfolio/static/js/3.c75fd35a.chunk.js.map",
     "index.html": "/harshfolio/index.html",
-    "static/css/main.f85885dd.chunk.css.map": "/harshfolio/static/css/main.f85885dd.chunk.css.map",
+    "static/css/main.8b72a7d0.chunk.css.map": "/harshfolio/static/css/main.8b72a7d0.chunk.css.map",
     "static/js/2.06eb6dfa.chunk.js.LICENSE.txt": "/harshfolio/static/js/2.06eb6dfa.chunk.js.LICENSE.txt",
+    "static/media/ResumeSeptember.pdf": "/harshfolio/static/media/ResumeSeptember.e21e1ab5.pdf",
     "static/media/cred.jpg": "/harshfolio/static/media/cred.65fa7ee4.jpg",
     "static/media/my.jpg": "/harshfolio/static/media/my.6b968220.jpg",
-    "static/media/myRes.pdf": "/harshfolio/static/media/myRes.b4714f85.pdf",
     "static/media/portfolio1.jpg": "/harshfolio/static/media/portfolio1.e736317a.jpg",
     "static/media/project1.jpg": "/harshfolio/static/media/project1.737af6f5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.417fd4ed.js",
     "static/js/2.06eb6dfa.chunk.js",
-    "static/css/main.f85885dd.chunk.css",
-    "static/js/main.ed2ad272.chunk.js"
+    "static/css/main.8b72a7d0.chunk.css",
+    "static/js/main.973b32cf.chunk.js"
   ]
 }
