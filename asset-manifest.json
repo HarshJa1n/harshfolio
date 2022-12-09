@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/harshfolio/static/css/main.8b72a7d0.chunk.css",
-    "main.js": "/harshfolio/static/js/main.973b32cf.chunk.js",
-    "main.js.map": "/harshfolio/static/js/main.973b32cf.chunk.js.map",
-    "runtime-main.js": "/harshfolio/static/js/runtime-main.417fd4ed.js",
-    "runtime-main.js.map": "/harshfolio/static/js/runtime-main.417fd4ed.js.map",
-    "static/js/2.06eb6dfa.chunk.js": "/harshfolio/static/js/2.06eb6dfa.chunk.js",
-    "static/js/2.06eb6dfa.chunk.js.map": "/harshfolio/static/js/2.06eb6dfa.chunk.js.map",
-    "static/js/3.c75fd35a.chunk.js": "/harshfolio/static/js/3.c75fd35a.chunk.js",
-    "static/js/3.c75fd35a.chunk.js.map": "/harshfolio/static/js/3.c75fd35a.chunk.js.map",
+    "main.css": "/harshfolio/static/css/main.eeaa091e.chunk.css",
+    "main.js": "/harshfolio/static/js/main.3abeb94d.chunk.js",
+    "main.js.map": "/harshfolio/static/js/main.3abeb94d.chunk.js.map",
+    "runtime-main.js": "/harshfolio/static/js/runtime-main.d1aa5809.js",
+    "runtime-main.js.map": "/harshfolio/static/js/runtime-main.d1aa5809.js.map",
+    "static/js/2.ea040aa8.chunk.js": "/harshfolio/static/js/2.ea040aa8.chunk.js",
+    "static/js/2.ea040aa8.chunk.js.map": "/harshfolio/static/js/2.ea040aa8.chunk.js.map",
+    "static/js/3.22f9c2c3.chunk.js": "/harshfolio/static/js/3.22f9c2c3.chunk.js",
+    "static/js/3.22f9c2c3.chunk.js.map": "/harshfolio/static/js/3.22f9c2c3.chunk.js.map",
     "index.html": "/harshfolio/index.html",
-    "static/css/main.8b72a7d0.chunk.css.map": "/harshfolio/static/css/main.8b72a7d0.chunk.css.map",
-    "static/js/2.06eb6dfa.chunk.js.LICENSE.txt": "/harshfolio/static/js/2.06eb6dfa.chunk.js.LICENSE.txt",
-    "static/media/ResumeSeptember.pdf": "/harshfolio/static/media/ResumeSeptember.e21e1ab5.pdf",
+    "static/css/main.eeaa091e.chunk.css.map": "/harshfolio/static/css/main.eeaa091e.chunk.css.map",
+    "static/js/2.ea040aa8.chunk.js.LICENSE.txt": "/harshfolio/static/js/2.ea040aa8.chunk.js.LICENSE.txt",
+    "static/media/APIH image.png": "/harshfolio/static/media/APIH image.842cb464.png",
     "static/media/cred.jpg": "/harshfolio/static/media/cred.65fa7ee4.jpg",
     "static/media/my.jpg": "/harshfolio/static/media/my.6b968220.jpg",
     "static/media/portfolio1.jpg": "/harshfolio/static/media/portfolio1.e736317a.jpg",
     "static/media/project1.jpg": "/harshfolio/static/media/project1.737af6f5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.417fd4ed.js",
-    "static/js/2.06eb6dfa.chunk.js",
-    "static/css/main.8b72a7d0.chunk.css",
-    "static/js/main.973b32cf.chunk.js"
+    "static/js/runtime-main.d1aa5809.js",
+    "static/js/2.ea040aa8.chunk.js",
+    "static/css/main.eeaa091e.chunk.css",
+    "static/js/main.3abeb94d.chunk.js"
   ]
 }
