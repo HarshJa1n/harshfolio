@@ -1,6 +1,16 @@
 export const ProjectData = [
   {
     id: 1,
+    title: "API-Hunt",
+    about:
+      "A place to find free, open access, public-apis. Easily search, filter and browse through categories!",
+    tags: ["ReactJs", "Tailwind", "JavaScript", "Public-API"],
+    demo: "https://harshja1n.github.io/API-Hunt/",
+    github: "https://github.com/HarshJa1n/API-Hunt",
+    image: require("../assets/image/APIH image.png").default,
+  },
+  {
+    id: 1,
     title: "Personal Portfolio",
     about:
       "This is my personal portfolio that needs a bit fixes here and there but its alright for now :)",
