@@ -19,7 +19,7 @@ function Contact() {
           OR
         </div>
         <div className="download">
-          <a href={require("../../../assets/myRes.pdf").default}>
+          <a href="https://drive.google.com/file/d/1dMQXipPabv_ivI8Eh5Bjk2DPtk2qije2/view?usp=share_link" target="_Onblank">
           <i class="fi fi-rr-document-signed"></i>
             View Resume
           </a>
